@@ -10,6 +10,8 @@
 // console.log(1+2+"2"+2);
 // console.log(1+2+"2"+"2");
 
-let health = 100;
-health++;
-console.log(health)
+// let health = 100;
+// health++;
+// console.log(health)
+
+console.log("2" === 2)
